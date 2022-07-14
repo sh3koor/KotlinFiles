@@ -12,6 +12,6 @@ fun main(){
         println("You can not apply for the job")
     }
 
-    print("END APP")
+    print("END of APP")
 
 }
